@@ -1,6 +1,6 @@
 # consuming_api
 
-A new Flutter project.
+A simple app in Flutter that consumes a free fake API from "https://jsonplaceholder.typicode.com".
 
 ## Getting Started
 
